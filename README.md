@@ -1,2 +1,3 @@
 # EU_DB
-Projekt bazy danych SQL 
+Projekt bazy danych magazynu sklepu elektronicznego.
+Zaliczeniowo dla semestru czwartego w Europejska Uczelnia.

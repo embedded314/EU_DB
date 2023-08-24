@@ -1,6 +1,6 @@
 -- update rekordow
 UPDATE product_list 
-	SET warehouse_id=2, descript = 'Mimas A7 - Artix 7 - płytka rozwojowa FPGA'
+	SET warehouse_id=2, descript = 'Mimas A7 - Artix 7 - płytka rozwojowa FPGA, mid'
 	WHERE symbol = '12892';
 UPDATE product_list 
 	SET descript = 'Mimas v2 - Spartan 6 - płytka rozwojowa FPGA' 

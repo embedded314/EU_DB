@@ -1,5 +1,4 @@
 CREATE DATABASE mod_warehouse;
-
 -- lista magazynow
 CREATE TABLE IF NOT EXISTS warehouse_list (
 	id SERIAL,
